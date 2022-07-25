@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming, Networking, Cybersecurity
 - 🌱 I’m currently learning Computer Engineering
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me amsyar@amsyarputra.net
 
 <!---
 ProjectAgentNova27/ProjectAgentNova27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
