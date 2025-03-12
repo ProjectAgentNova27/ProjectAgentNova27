@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ProjectAgentNova27
 - 👀 I’m interested in Programming, Networking, Cybersecurity
 - 🌱 I’m currently learning Computer Engineering
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me amsyar@amsyarputra.net
 
 <!---
